@@ -18,6 +18,7 @@ Below is the data pipeline followed to achieve the end result
 ![Mgmt Access Big Data Project Methodology](https://github.com/anujmahajan98/USA-Covid-19-Vaccine-Distribution-Analysis/assets/53164451/70514363-e881-45cb-902f-44551b19949a)
 
 For the detailed analysis you can look up the report shared in this git repository. Along with that I have published some of the interesting analysis on MongoDB chart Dashboard. The dashboard is public and you can access it on the following link.
+
 [MongoDb Dashboard](https://charts.mongodb.com/charts-management-access-big-dat-bxlve/public/dashboards/076999fb-8558-4419-a973-e71792c63407)
 
 
